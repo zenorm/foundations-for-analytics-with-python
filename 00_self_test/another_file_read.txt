@@ -1,0 +1,22 @@
+"I agree, it's not
+visually interesting at all; but in order
+to talk intelligently about your scissors trusses, I want
+to go through a few aspects of truss design with you,
+a
+and a simple triangular truss is good place to start.
+Let's look at the forces in its members.'
+a Using a rolling ruler, the engineer drew the form of
+the truss, along with arrows to indicate a load on its
+apex
+and reactions at its lower corners.
+"I'm going to do this graphically, which is a
+lot quicker than a numerical solution. I'll
+put the letters A, B, and C between the
+external forces and the numeral - on the
+interior space of the truss, like this:"(4.3)
+(A note to the reader: On the supplemental
+site, under "Form and Forces Graphical
+Techniques," the first interactive demonstration
+concerns a
+truss similar to the one being
+considered here.)
